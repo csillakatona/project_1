@@ -1,0 +1,52 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+  background-image: linear-gradient(to bottom right,#bdc3c7,#2c3e50 );
+}  
+
+
+h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    font-size: 4.3rem;
+}
+
+
+.jumbotron {
+    background-color: rgba(250, 235, 215, 0);
+    color: white;
+}
+
+
+
+.lead{
+    color: white;
+    font-size: 2.2rem;
+    
+}
+
+.btn-outline-ligh{
+    border-color: white;
+}
+
+
+.btn-outline-ligh:hover{
+    background-color: rgba(255, 255, 255, 0.221);
+}
+
+.navbar-brand{
+    font-family: 'Fredericka the Great', cursive;
+    font: weight 1000px;
+    color: white;
+}
+
+.normalbutton{
+    width: 120px;
+    height: auto;
+
+}
+
+.btn-primary, .btn-primary:hover{
+    border-color: #2c3e50;
+    background-color: #2c3e50;
+}
